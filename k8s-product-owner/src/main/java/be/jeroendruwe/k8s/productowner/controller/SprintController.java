@@ -18,7 +18,7 @@ public class SprintController {
 
     @RequestMapping("/meeting")
     public DeveloperResponse addToActiveSprint() {
-        return restTemplate.getForObject("http://localhost:8080/develop", DeveloperResponse.class);
+        return restTemplate.getForObject("http://k8s-developer-service/develop", DeveloperResponse.class);
     }
 
 }
