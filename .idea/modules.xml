@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/k8s-developer/k8s-developer.iml" filepath="$PROJECT_DIR$/k8s-developer/k8s-developer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/k8s-product-owner/k8s-product-owner.iml" filepath="$PROJECT_DIR$/k8s-product-owner/k8s-product-owner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/k8s-scrum.iml" filepath="$PROJECT_DIR$/k8s-scrum.iml" />
+    </modules>
+  </component>
+</project>
