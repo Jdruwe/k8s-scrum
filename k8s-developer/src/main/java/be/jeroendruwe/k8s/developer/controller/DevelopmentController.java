@@ -17,7 +17,7 @@ public class DevelopmentController {
     @RequestMapping("/develop")
     public DeveloperResponse develop() {
         LOG.info("Received new develop request during an active sprint");
-        return new DeveloperResponse("Put it in the backlog!");
+        return new DeveloperResponse("Put it on the backlog!");
     }
 
 }
